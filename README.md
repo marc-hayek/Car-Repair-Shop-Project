@@ -26,7 +26,8 @@ requests onto the screen as follows:
 etc.
 
 Additionally, the user has the option to see the following options:
-1.	Car make that is repaired the most (repeats most frequently).
+
+1.	Car make that is repaired the most (repeats most frequently)
 2.	Car make that got the highest average number of service requests
 3.	Total Revenue
 
