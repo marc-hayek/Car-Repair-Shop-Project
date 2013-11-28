@@ -14,13 +14,7 @@ requests onto the screen as follows:
 *	Customer first name   Customer last name
 *	Customer address
 *	Car make, model, year, color
-*	Service 1, service 2, … (up to 5 services)
-*	Cost of repairs for this car
-
-*	Customer first name   Customer last name
-*	Customer address
-*	Car make, model, year, color
-*	Service 1, service 2, … (up to 5 services)
+*	Service 1, service 2,(up to 5 services)
 *	Cost of repairs for this car
 
 etc.
