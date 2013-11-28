@@ -1,0 +1,13 @@
+Oil change	25000	1
+Muffler Fix	90000	2
+Tune up 120000	3
+Oil pump repair	75000	4
+Water pump repair	55000	5
+Belt replacement	15000	6
+Tire replacement	80000	7
+Tire rotation	20000	8
+Transmission repair	230000	9
+Major engine repair	340000	10
+Onboard computer programming	150000	11
+Suspension fix	80000	12
+Shock absorber replacement	40000	13

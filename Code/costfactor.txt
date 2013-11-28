@@ -1,0 +1,15 @@
+Kia	1
+Fiat	1
+Hyundai	2
+Opel	2
+Renault	2
+Peugeot	2
+Honda	3
+Nissan	3
+Toyota	3
+Mitsubishi	4
+Dodge	4
+Jeep	4
+Cadillac	5
+BMW	5
+Mercedes	5
