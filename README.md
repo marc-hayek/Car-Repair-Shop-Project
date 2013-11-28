@@ -11,16 +11,23 @@ For my Data Structures and Algorithms Course final project, we were assigned to 
 The program will take a preset list of customers, and generate requests for services for their specific car model. The program will then output these 
 requests onto the screen as follows:
 
-Customer first name   Customer last name
-Customer address
-Car make, model, year, color
-Service 1, service 2, … (up to 5 services)
-Cost of repairs for this car
-----------------------------------------------------
-Customer first name   Customer last name
-Customer address
-Car make, model, year, color
-Service 1, service 2, … (up to 5 services)
-Cost of repairs for this car
-----------------------------------------------------
-…
+*Customer first name   Customer last name
+*Customer address
+*Car make, model, year, color
+*Service 1, service 2, … (up to 5 services)
+*Cost of repairs for this car
+
+*Customer first name   Customer last name
+*Customer address
+*Car make, model, year, color
+8Service 1, service 2, … (up to 5 services)
+*Cost of repairs for this car
+
+etc.
+
+Additionally, the user has the option to see the following options:
+1.	Car make that is repaired the most (repeats most frequently).
+2.	Car make that got the highest average number of service requests
+3.	Total Revenue
+
+All of the project instructions, along with the given excel sheets are included. 
