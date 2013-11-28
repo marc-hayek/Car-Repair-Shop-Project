@@ -11,17 +11,17 @@ For my Data Structures and Algorithms Course final project, we were assigned to 
 The program will take a preset list of customers, and generate requests for services for their specific car model. The program will then output these 
 requests onto the screen as follows:
 
-*Customer first name   Customer last name
-*Customer address
-*Car make, model, year, color
-*Service 1, service 2, … (up to 5 services)
-*Cost of repairs for this car
+*	Customer first name   Customer last name
+*	Customer address
+*	Car make, model, year, color
+*	Service 1, service 2, … (up to 5 services)
+*	Cost of repairs for this car
 
-*Customer first name   Customer last name
-*Customer address
-*Car make, model, year, color
-8Service 1, service 2, … (up to 5 services)
-*Cost of repairs for this car
+*	Customer first name   Customer last name
+*	Customer address
+*	Car make, model, year, color
+*	Service 1, service 2, … (up to 5 services)
+*	Cost of repairs for this car
 
 etc.
 
